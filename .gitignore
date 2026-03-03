@@ -1,4 +1,4 @@
-session.har
+*.har
 node_modules/
 dist/
 extract.log
