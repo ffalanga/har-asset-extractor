@@ -1,5 +1,8 @@
+## Browser Extension
+The same functionality is also available as a Chrome browser extension in the companion project **har-assest-extractor-be** (located in the same parent repository). It allows extracting assets directly from a HAR file via a popup UI, without using the CLI.
+
 ## Note
-The application 
+The application
 Mandatory files:
 * names.txt
     List all files to extract from HAR.
